@@ -1,0 +1,104 @@
+:root {
+    --vermelho:#E50914; /* variaveis padrao netflix */
+    --preto:#141414;
+}
+
+* { /* padroniza os elementos da página */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* elementos base */
+body{
+    background-color: var(--preto);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+header .container {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;    
+}
+
+header .logo {
+    margin-left: 5px;
+    color: var(--vermelho);
+    font-family: 'Arial Black';
+    font-size: 40px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover {
+    color: #fff; /* mudar a cor do menu de navegação ao passar o mouse*/
+}
+
+/* filme principal */
+
+.filme-principal {
+    font-size: 16px;
+    background: url('/img/capa-house.jpg');
+    height: 400px;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao {
+    margin-top: 10px;
+    margin-bottom: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.filme-principal .titulo {
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.botao {
+    background-color: rgba(0, 0, 0, .50);
+    border: none;
+    color: white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    
+    cursor: pointer; /* altera o ponteiro do mouse ao passar por cima do botao */
+    transition: .5s ease-in-out;
+}
+
+.botao:hover {
+    background-color: white;
+    color: black; /*altera a cor dos botões ao passar o mouse por cima */
+}
+
+.botao i{
+    margin-right: 5px;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.filme-principal .container {
+    width: 70%;
+}
+
+.box-filme{
+    height: 50%;
+    width: 50%;
+    display: block;
+}
