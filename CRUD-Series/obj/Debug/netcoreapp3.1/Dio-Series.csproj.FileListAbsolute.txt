@@ -1,0 +1,14 @@
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\bin\Debug\netcoreapp3.1\Dio-Series.exe
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\bin\Debug\netcoreapp3.1\Dio-Series.deps.json
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\bin\Debug\netcoreapp3.1\Dio-Series.runtimeconfig.json
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\bin\Debug\netcoreapp3.1\Dio-Series.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\bin\Debug\netcoreapp3.1\Dio-Series.dll
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\bin\Debug\netcoreapp3.1\Dio-Series.pdb
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.dll
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.pdb
+C:\Users\guilh\source\repos\Dio-Series\Dio-Series\obj\Debug\netcoreapp3.1\Dio-Series.genruntimeconfig.cache
